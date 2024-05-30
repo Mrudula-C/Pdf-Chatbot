@@ -1,0 +1,15 @@
+how to run?
+
+
+1. create a virtual environment (python -m venv .venv)
+2. if already exists then activate -> .venv\Scripts\Activate
+3. pip install streamlit pypdf2 langchain python-dotenv faiss-cpu openai huggingface_hub
+4. pip install instructor
+5. pip install tiktoken
+6. pip install langchain
+7. pip install InstructorEmbedding    
+8. sentence_transformers
+9 pip install google
+
+TO RUN - streamlit run --server.port 8888 App.py
+
